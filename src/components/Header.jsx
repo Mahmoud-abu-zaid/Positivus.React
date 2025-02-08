@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <div className="container">
+      <div className="container p-5 bg-white" >
         <a href="index.html" class="flex items-center text-[30px]">
           Positivus
         </a>
