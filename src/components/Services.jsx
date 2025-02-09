@@ -4,7 +4,7 @@ function Services() {
       <section id="Services"></section>
       <div className="container">
         <div className="mt-20 flex  justify-center items-center">
-          <h2 className="mr-10 bg-[#b9ff66] p-[3px] rounded-sm">Services</h2>
+          <h2 className="mr-10 bg-[#b9ff66] p-[3px] rounded-md text-2xl">Services</h2>
           <p className="">
             At our digital marketing agency, we offer a range of services to <br /> help businesses grow and succeed online. These services include:
           </p>

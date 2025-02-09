@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero-section";
 import Services from "./components/Services";
+import Cases from"./components/Cases";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Hero />
       <Services />
+      <Cases />
     </>
   );
 }
