@@ -127,6 +127,22 @@ function Services() {
             </div>
           </div>
         </div>
+        <div className="flex justify-center items-center ">
+          <div className="flex  justify-between items-center  h-[300px]  bg-[#f3f3f3] p-6 mt-9 rounded-[25px]">
+            <div>
+              <h3 className="text-3xl pb-6">Let’s make things happen</h3>
+              <p className=" pb-6">
+                Contact us today to learn more about how our digital <br />
+                marketing services can help your business grow and <br />
+                succeed online.
+              </p>
+              <a href="/" className=" bg-[#140f0f] rounded-[5px] p-3 text-white">Get your free proposal</a>
+            </div>
+            <div>
+              <img className=" p-6" src="/img/Frame 19(2).png" alt="" />
+            </div>
+          </div>
+        </div>
       </div>
     </main>
   );
