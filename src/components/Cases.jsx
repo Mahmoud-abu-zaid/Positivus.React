@@ -12,7 +12,7 @@ function Cases() {
           <div className="flex justify-center items-center m-5">
             <div className="flex justify-center bg-[#191a23] rounded-[25px] flex-wrap text-white">
               <div className="p-8">
-                <p className="border-r-4 pr-3 pb-3">
+                <p className="md:border-r-4 pr-3 pb-3">
                   For a local restaurant, we <br />
                   implemented a targeted PPC <br />
                   campaign that resulted in a 50% <br />
@@ -24,7 +24,7 @@ function Cases() {
                 </a>
               </div>
               <div className="p-8">
-                <p className="border-r-4 pr-3 pb-3">
+                <p className="lg:border-r-4 pr-3 pb-3">
                   For a local restaurant, we <br />
                   implemented a targeted PPC <br />
                   campaign that resulted in a 50% <br />
