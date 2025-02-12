@@ -4,6 +4,7 @@ import Services from "./components/Services";
 import Cases from "./components/Cases";
 import Team from "./components/Team";
 import ContactUs from "./components/ContactUs";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Cases />
       <Team />
       <ContactUs />
+      <Footer />
     </>
   );
 }
