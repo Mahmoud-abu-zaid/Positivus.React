@@ -3,6 +3,7 @@ import Hero from "./components/Hero-section";
 import Services from "./components/Services";
 import Cases from "./components/Cases";
 import Team from "./components/Team";
+import ContactUs from "./components/ContactUs";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Services />
       <Cases />
       <Team />
+      <ContactUs />
     </>
   );
 }
